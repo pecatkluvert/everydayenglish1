@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f8f6f0">
+  <meta name="description" content="Practice everyday English with expressions, exercises, a dialogue, and a story. Your progress stays on your device.">
+  <title>Everyday English · Practice a little, speak a little more</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="data/lessons.bundle.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to lesson</a>
+  <header class="topbar">
+    <a class="brand" href="#" aria-label="Everyday English home"><span class="brand-mark" aria-hidden="true">e.</span><span>everyday<span class="brand-light">english</span></span></a>
+    <div class="lesson-picker"><label for="lesson-select">YOUR WORKBOOK</label><select id="lesson-select" aria-label="Choose a lesson"><option>Loading lesson…</option></select></div>
+    <span class="local-note"><span aria-hidden="true">●</span> Your own pace. Your own space.</span>
+  </header>
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="sidebar-heading">THE LEARNING ROUTE</div>
+      <nav id="navigation" aria-label="Lesson sections"></nav>
+      <div class="side-progress"><div class="eyebrow">A LITTLE EVERY DAY</div><p id="progress-copy">Your next expression starts here.</p><div class="progress-track"><span id="progress-bar"></span></div><div id="progress-label" class="muted small"></div></div>
+      <p class="sidebar-foot">Make English a little<br>more everyday.</p>
+    </aside>
+    <main id="main" tabindex="-1"><div class="loading">Opening your workbook…</div></main>
+  </div>
+  <footer><span>Everyday English · A small step toward more confident conversations.</span><button id="reset-progress" class="text-button">Reset this lesson</button></footer>
+  <dialog id="reset-dialog"><form method="dialog"><span class="eyebrow">A FRESH START</span><h2>Reset this lesson?</h2><p>This clears the saved answers and progress for this lesson on this browser.</p><div class="actions"><button value="cancel" class="button secondary">Keep my progress</button><button value="reset" class="button">Reset lesson</button></div></form></dialog>
+  <div id="announcement" class="sr-only" aria-live="polite"></div>
+  <noscript><p class="notice">Please enable JavaScript to open the interactive workbook. The lesson and answers are also available in data/lesson-01.json.</p></noscript>
+</body>
+</html>
