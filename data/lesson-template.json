@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson-02",
+  "contentVersion": 1,
+  "number": 2,
+  "title": "Your lesson title",
+  "subtitle": "Describe this lesson.",
+  "source": {
+    "file": "Your source document",
+    "answerKey": "Describe the origin of your answers."
+  },
+  "expressions": [
+    {
+      "id": "example-expression",
+      "phrase": "look up",
+      "meaning": "search for information",
+      "examples": [
+        "I looked up the word in a dictionary."
+      ],
+      "dialogue": [
+        "A: What does this word mean?",
+        "B: Let’s look it up."
+      ]
+    }
+  ],
+  "practice": {
+    "title": "Choose the best answer",
+    "questions": [
+      {
+        "id": "p1",
+        "prompt": "Please ____ the word in a dictionary.",
+        "options": [
+          "look up",
+          "set out",
+          "dress up"
+        ],
+        "answer": "look up",
+        "expressionId": "example-expression",
+        "explanation": "“Look up” means search for information."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "At the library",
+    "wordBank": [
+      "look up"
+    ],
+    "lines": [
+      {
+        "id": "d1",
+        "speaker": "Alex",
+        "text": "I need to ____ this word.",
+        "answer": "look up",
+        "expressionId": "example-expression",
+        "explanation": "Alex needs to find the meaning of the word."
+      },
+      {
+        "id": "d2",
+        "speaker": "Sam",
+        "text": "Use this dictionary."
+      }
+    ]
+  },
+  "story": {
+    "title": "Words in context",
+    "paragraphs": [
+      "When I see a new word, I look up its meaning."
+    ],
+    "highlights": [
+      {
+        "text": "look up",
+        "expressionId": "example-expression"
+      }
+    ]
+  }
+}

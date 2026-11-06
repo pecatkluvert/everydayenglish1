@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "title": "Everyday English",
+  "lessons": [
+    {
+      "id": "lesson-01",
+      "file": "data/lesson-01.json",
+      "number": 1,
+      "title": "Everyday expressions"
+    }
+  ]
+}
