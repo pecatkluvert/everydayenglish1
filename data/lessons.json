@@ -7,6 +7,12 @@
       "file": "data/lesson-01.json",
       "number": 1,
       "title": "Everyday expressions"
+    },
+    {
+      "id": "lesson-02",
+      "file": "data/lesson-02.json",
+      "number": 2,
+      "title": "Work, people & everyday life"
     }
   ]
 }
