@@ -13,6 +13,18 @@
       "file": "data/lesson-02.json",
       "number": 2,
       "title": "Work, people & everyday life"
+    },
+    {
+      "id": "lesson-03",
+      "file": "data/lesson-03.json",
+      "number": 3,
+      "title": "Journeys, directions & decisions"
+    },
+    {
+      "id": "lesson-04",
+      "file": "data/lesson-04.json",
+      "number": 4,
+      "title": "Progress, independence & good bargains"
     }
   ]
 }

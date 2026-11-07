@@ -1,0 +1,417 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson-03",
+  "contentVersion": 1,
+  "number": 3,
+  "title": "Journeys, directions & decisions",
+  "subtitle": "A highway conversation, a wrong turn, and a country picnic.",
+  "source": {
+    "file": "3 Illustrated_Everyday_Expressions_with_Stories_2.pdf",
+    "lesson": 3,
+    "pdfPages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "printedExercisePages": [
+      23,
+      24
+    ],
+    "answerKey": "Answers inferred from the lesson definitions and exercise context; no published answer key is present in the supplied PDF.",
+    "transcription": "Obvious OCR errors and line-break hyphenation corrected. Exercise wording and option order retained. Typographic quotation marks normalized for readability. Tom's long dialogue turn is split between two consecutive entries so each entry contains one blank. The story retains the three numbered source paragraphs."
+  },
+  "expressions": [
+    {
+      "id": "bring-up",
+      "phrase": "bring up",
+      "meaning": "start to talk about something",
+      "examples": [
+        "I hate to bring this up, but you have some food between your teeth.",
+        "When my mother is mad at me she always brings up the time I forgot her birthday."
+      ],
+      "dialogue": [
+        "A: I really don't like the new coffee machine.",
+        "B: You should bring it up at the next staff meeting."
+      ]
+    },
+    {
+      "id": "by-all-means",
+      "phrase": "by all means",
+      "meaning": "said to encourage a person to do something",
+      "examples": [
+        "“May I have some more chicken?” “By all means!”",
+        "By all means, take your time and look around the store."
+      ],
+      "dialogue": [
+        "A: Could I borrow your pen?",
+        "B: By all means!"
+      ]
+    },
+    {
+      "id": "by-chance",
+      "phrase": "by chance",
+      "meaning": "not planned; luckily",
+      "examples": [
+        "By chance, the first birthday card she read was from her brother.",
+        "They met by chance while they were both vacationing in Hawaii."
+      ],
+      "dialogue": [
+        "A: Where did you get your cat?",
+        "B: I found him by chance in the park."
+      ]
+    },
+    {
+      "id": "carry-on",
+      "phrase": "carry on",
+      "meaning": "continue",
+      "examples": [
+        "After the storm passed, we carried on painting the house.",
+        "When the announcement was finished, the class carried on with the lesson."
+      ],
+      "dialogue": [
+        "A: Is everyone back from lunch?",
+        "B: Yes. Let's carry on with the meeting."
+      ]
+    },
+    {
+      "id": "draw-the-line-at",
+      "phrase": "draw the line at",
+      "meaning": "say some point is the limit",
+      "examples": [
+        "My parents let me use the car, but they draw the line at allowing me to take long trips.",
+        "I don't mind sharing a room, but I draw the line at sleeping in the same bed."
+      ],
+      "dialogue": [
+        "A: Let's go to a nightclub.",
+        "B: OK, but I draw the line at doing disco!"
+      ]
+    },
+    {
+      "id": "fix-up",
+      "phrase": "fix up",
+      "meaning": "repair; make nice or good again",
+      "examples": [
+        "They fixed up the office by putting in new carpet and painting the walls.",
+        "It would cost more to fix up this old boat than to buy a new one."
+      ],
+      "dialogue": [
+        "A: Is John going to buy a new house?",
+        "B: No, he's going to fix up his old one."
+      ]
+    },
+    {
+      "id": "get-lost",
+      "phrase": "get lost",
+      "meaning": "become confused about one's location",
+      "examples": [
+        "We got lost on the way to the theater.",
+        "The directions were not clear, so we got lost."
+      ],
+      "dialogue": [
+        "A: Why are you late?",
+        "B: I got lost on the way."
+      ]
+    },
+    {
+      "id": "high-time",
+      "phrase": "high time",
+      "meaning": "time for some action that has been postponed too long",
+      "examples": [
+        "I think it's high time we fix the heater. I'm freezing!",
+        "My mother said it was high time that I got my hair cut and found a job."
+      ],
+      "dialogue": [
+        "A: It's high time you cleaned your room!",
+        "B: Yes, Mom. I'll do it right away."
+      ]
+    },
+    {
+      "id": "lose-ones-temper",
+      "phrase": "lose one's temper",
+      "meaning": "become angry",
+      "examples": [
+        "He lost his temper and hit the table with his fist.",
+        "It is dangerous to lose your temper while driving."
+      ],
+      "dialogue": [
+        "A: What happened to your hand?",
+        "B: I lost my temper and punched the wall!"
+      ]
+    },
+    {
+      "id": "pull-over",
+      "phrase": "pull over",
+      "meaning": "move one's vehicle to the side of the road and stop",
+      "examples": [
+        "She pulled over to take a picture of the beautiful scenery by the highway.",
+        "The police officer yelled at the driver, “Pull over!”"
+      ],
+      "dialogue": [
+        "A: I think we're lost.",
+        "B: Let's pull over and look at the map again."
+      ]
+    }
+  ],
+  "practice": {
+    "title": "Choose the best answer",
+    "sourcePdfPage": 4,
+    "questions": [
+      {
+        "id": "p1",
+        "prompt": "After a short coffee break we ____ with the meeting.",
+        "options": [
+          "carried on",
+          "fixed up",
+          "pulled over"
+        ],
+        "answer": "carried on",
+        "expressionId": "carry-on",
+        "explanation": "“Carried on” means continued. The meeting resumed after the break."
+      },
+      {
+        "id": "p2",
+        "prompt": "I hate to ____ this subject now, but do you have the money you owe me?",
+        "options": [
+          "bring up",
+          "carry on",
+          "get lost"
+        ],
+        "answer": "bring up",
+        "expressionId": "bring-up",
+        "explanation": "“Bring up” means introduce a topic into a conversation. The speaker introduces the subject of the debt."
+      },
+      {
+        "id": "p3",
+        "prompt": "If you are tired, ____ take a nap on my bed.",
+        "options": [
+          "by chance",
+          "high time",
+          "by all means"
+        ],
+        "answer": "by all means",
+        "expressionId": "by-all-means",
+        "explanation": "“By all means” gives permission or encouragement. The speaker welcomes the other person to take a nap."
+      },
+      {
+        "id": "p4",
+        "prompt": "My uncle is generous, but he ____ lending money to relatives.",
+        "options": [
+          "by all means",
+          "draws the line at",
+          "high time"
+        ],
+        "answer": "draws the line at",
+        "expressionId": "draw-the-line-at",
+        "explanation": "“Draws the line at” sets a limit. He is generous but will not lend money to relatives."
+      },
+      {
+        "id": "p5",
+        "prompt": "She can be very scary when she ____.",
+        "options": [
+          "gets lost",
+          "carries on",
+          "loses her temper"
+        ],
+        "answer": "loses her temper",
+        "expressionId": "lose-ones-temper",
+        "explanation": "“Loses her temper” means becomes angry. Her anger can frighten people."
+      },
+      {
+        "id": "p6",
+        "prompt": "____, I found ten dollars under the table at the restaurant.",
+        "options": [
+          "Draw the line at",
+          "By chance",
+          "High time"
+        ],
+        "answer": "By chance",
+        "expressionId": "by-chance",
+        "explanation": "“By chance” means accidentally or without planning. Finding the money was unexpected."
+      },
+      {
+        "id": "p7",
+        "prompt": "The bus driver ____ because one of the passengers got sick.",
+        "options": [
+          "pulled over",
+          "fixed up",
+          "got lost"
+        ],
+        "answer": "pulled over",
+        "expressionId": "pull-over",
+        "explanation": "“Pulled over” means moved the vehicle to the side of the road and stopped."
+      },
+      {
+        "id": "p8",
+        "prompt": "They wanted to ____ the old apartment, but they did not have enough money.",
+        "options": [
+          "lose his temper",
+          "fix up",
+          "carry on"
+        ],
+        "answer": "fix up",
+        "expressionId": "fix-up",
+        "explanation": "“Fix up” means repair or improve something. They wanted to renovate the apartment."
+      },
+      {
+        "id": "p9",
+        "prompt": "We ____ in London and drove around for hours in the fog.",
+        "options": [
+          "fixed up",
+          "brought up",
+          "got lost"
+        ],
+        "answer": "got lost",
+        "expressionId": "get-lost",
+        "explanation": "“Got lost” means became unsure of the way. They could not find their destination."
+      },
+      {
+        "id": "p10",
+        "prompt": "He was surprised when his boss told him, “I think it’s ____ you got a raise.”",
+        "options": [
+          "high time",
+          "draw the line at",
+          "by chance"
+        ],
+        "answer": "high time",
+        "expressionId": "high-time",
+        "explanation": "“High time” means an action is overdue. The boss thinks the employee should already have received a raise."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "On the highway",
+    "sourcePdfPage": 5,
+    "wordBank": [
+      "by all means",
+      "by chance",
+      "carry on",
+      "got lost",
+      "high time",
+      "pull over"
+    ],
+    "lines": [
+      {
+        "id": "d1",
+        "speaker": "Tom",
+        "text": "Yes, Officer?"
+      },
+      {
+        "id": "d2",
+        "speaker": "Policeman",
+        "text": "I asked you to ____ because your brake light is broken. May I see your license and car registration?",
+        "answer": "pull over",
+        "expressionId": "pull-over",
+        "explanation": "The policeman asked Tom to move his vehicle to the side of the road and stop."
+      },
+      {
+        "id": "d3",
+        "speaker": "Tom",
+        "text": "____! Here they are.",
+        "answer": "by all means",
+        "expressionId": "by-all-means",
+        "explanation": "Tom willingly agrees to show the requested documents."
+      },
+      {
+        "id": "d4",
+        "speaker": "Policeman",
+        "text": "Well, I think it's ____ you had that fixed. It's not safe to drive around with a broken brake light.",
+        "answer": "high time",
+        "expressionId": "high-time",
+        "explanation": "Repairing the brake light is overdue because driving with it broken is unsafe."
+      },
+      {
+        "id": "d5",
+        "speaker": "Tom",
+        "text": "Yes, sir."
+      },
+      {
+        "id": "d6",
+        "speaker": "Policeman",
+        "text": "I won't give you a ticket this time. Get that light fixed."
+      },
+      {
+        "id": "d7",
+        "speaker": "Tom",
+        "text": "I will, Officer. Um, I wonder if you could help. I met my friend ____ at the post office this morning and we planned to meet at Le Chez for lunch.",
+        "answer": "by chance",
+        "expressionId": "by-chance",
+        "explanation": "Tom met his friend accidentally, without planning the encounter."
+      },
+      {
+        "id": "d8",
+        "speaker": "Tom",
+        "text": "I thought it was on Lexington Street, but I took a wrong turn and ____.",
+        "answer": "got lost",
+        "expressionId": "get-lost",
+        "explanation": "Taking the wrong turn left Tom unsure of his location."
+      },
+      {
+        "id": "d9",
+        "speaker": "Policeman",
+        "text": "At the next stoplight, turn left. Lexington will be the third street on the right."
+      },
+      {
+        "id": "d10",
+        "speaker": "Tom",
+        "text": "Thank you, officer! ____ the good work you are doing!",
+        "answer": "carry on",
+        "expressionId": "carry-on",
+        "explanation": "Tom encourages the policeman to continue doing good work."
+      }
+    ]
+  },
+  "story": {
+    "title": "Idioms in context",
+    "sourcePdfPage": 6,
+    "paragraphs": [
+      "Everybody knows that men hate to stop and ask for directions. My husband is no different. Every time we get lost, we drive around for hours before he finally pulls over and asks for help.",
+      "One Saturday we saw an ad in the newspaper for a country dance and picnic at a farm outside of town. We fixed up our old cowboy hats, cut out the map from the newspaper and started driving. After a few hours, I brought up the fact that we were lost. Of course my husband lost his temper when I suggested we ask someone for directions. “I can find it!” he yelled. I didn’t see any point in fighting about it, so I just told him, “By all means, carry on.”",
+      "After another hour of driving, I decided it was high time to ask for help. By chance we passed a little gas station with an old man sitting out by the pumps. My husband agreed to stop because we needed gas, but he drew the line at asking for directions. I got out of the car and walked over to the old man. Before I asked him anything he smiled and said, “The map is wrong. It’s Highway 23, not 32.” “How did you know?” I asked in surprise. “You’re the fifth woman whose husband has gotten lost in the last hour!”"
+    ],
+    "highlights": [
+      {
+        "text": "get lost",
+        "expressionId": "get-lost"
+      },
+      {
+        "text": "pulls over",
+        "expressionId": "pull-over"
+      },
+      {
+        "text": "fixed up",
+        "expressionId": "fix-up"
+      },
+      {
+        "text": "brought up",
+        "expressionId": "bring-up"
+      },
+      {
+        "text": "lost his temper",
+        "expressionId": "lose-ones-temper"
+      },
+      {
+        "text": "By all means",
+        "expressionId": "by-all-means"
+      },
+      {
+        "text": "carry on",
+        "expressionId": "carry-on"
+      },
+      {
+        "text": "high time",
+        "expressionId": "high-time"
+      },
+      {
+        "text": "By chance",
+        "expressionId": "by-chance"
+      },
+      {
+        "text": "drew the line at",
+        "expressionId": "draw-the-line-at"
+      }
+    ]
+  }
+}

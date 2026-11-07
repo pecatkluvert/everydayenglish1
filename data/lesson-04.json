@@ -1,0 +1,419 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson-04",
+  "contentVersion": 1,
+  "number": 4,
+  "title": "Progress, independence & good bargains",
+  "subtitle": "A hospital visit, learning English, and a jewelry-shopping mix-up.",
+  "source": {
+    "file": "4 Illustrated_Everyday_Expressions_with_Stories_2.pdf",
+    "lesson": 4,
+    "pdfPages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "printedExercisePages": [
+      29,
+      30
+    ],
+    "answerKey": "Answers inferred from the lesson definitions and exercise context; no published answer key is present in the supplied PDF.",
+    "transcription": "Obvious OCR errors and line-break hyphenation corrected. Exercise wording and option order retained. Typographic quotation marks normalized for readability. The story retains the five numbered source paragraphs; the final unnumbered closing sentence is included in paragraph 5."
+  },
+  "expressions": [
+    {
+      "id": "a-steal",
+      "phrase": "a steal",
+      "meaning": "very cheap; a very good price",
+      "examples": [
+        "My friend sold me his old car. It was a steal!",
+        "The land next to the river is a steal! You should buy it."
+      ],
+      "dialogue": [
+        "A: I just bought a DVD player for $95!",
+        "B: Wow! What a steal!"
+      ]
+    },
+    {
+      "id": "at-hand",
+      "phrase": "at hand",
+      "meaning": "near (time or space)",
+      "examples": [
+        "Christmas is at hand. I have to buy gifts for my family.",
+        "When I was a child, my mother was always close at hand."
+      ],
+      "dialogue": [
+        "A: I fear that war is at hand.",
+        "B: Don't worry. I'm sure the countries will reach an agreement."
+      ]
+    },
+    {
+      "id": "get-better",
+      "phrase": "get better",
+      "meaning": "improve",
+      "examples": [
+        "His cold got better after he took a day off work.",
+        "Her singing will get better if she practices every day."
+      ],
+      "dialogue": [
+        "A: This movie is boring!",
+        "B: Don't worry. It gets better."
+      ]
+    },
+    {
+      "id": "more-or-less",
+      "phrase": "more or less",
+      "meaning": "approximately; almost",
+      "examples": [
+        "My cousin and I are more or less the same age.",
+        "The airline tickets were more or less the same price."
+      ],
+      "dialogue": [
+        "A: Which shirt is better?",
+        "B: They are more or less the same quality."
+      ]
+    },
+    {
+      "id": "on-hand",
+      "phrase": "on hand",
+      "meaning": "near and ready for use",
+      "examples": [
+        "Do you have any bandages on hand? I cut myself.",
+        "There is a representative on hand twenty-four hours a day to help customers."
+      ],
+      "dialogue": [
+        "A: There's going to be five extra people at the party.",
+        "B: No problem. We have plenty of food on hand."
+      ]
+    },
+    {
+      "id": "on-ones-own",
+      "phrase": "on one's own",
+      "meaning": "without help from others",
+      "examples": [
+        "She has lived on her own since she was twenty-two.",
+        "He cooked this whole meal on his own without any help from his mother."
+      ],
+      "dialogue": [
+        "A: Do you need help fixing the sink?",
+        "B: No, thanks. I can do it on my own."
+      ]
+    },
+    {
+      "id": "refer-to-a-as-b",
+      "phrase": "refer to A as B",
+      "meaning": "use the name B for A",
+      "examples": [
+        "He referred to his classmate as his friend even though they only studied together.",
+        "Many people refer to this book as the author's greatest work."
+      ],
+      "dialogue": [
+        "A: What did your teacher say about your paper?",
+        "B: He referred to it as the work of a genius!"
+      ]
+    },
+    {
+      "id": "take-ones-time",
+      "phrase": "take one's time",
+      "meaning": "slowly; in a relaxed way",
+      "examples": [
+        "She took her time and made sure she did not make any mistakes on the test.",
+        "He is taking his time getting ready. He wants to look nice."
+      ],
+      "dialogue": [
+        "A: I'll be there as soon as I can!",
+        "B: Take your time. The movie doesn't start until 3:00."
+      ]
+    },
+    {
+      "id": "think-highly-of",
+      "phrase": "think highly of",
+      "meaning": "have a good opinion of",
+      "examples": [
+        "Her teacher thought highly of her ability to draw.",
+        "He doesn't think very highly of his neighbors."
+      ],
+      "dialogue": [
+        "A: Mr. Henry is such a great teacher!",
+        "B: Yes. All the students think highly of him."
+      ]
+    },
+    {
+      "id": "try-out",
+      "phrase": "try out",
+      "meaning": "do or use to see if something works correctly",
+      "examples": [
+        "Don't buy the bike until you try it out first.",
+        "I tried out several software programs, but none of them were good."
+      ],
+      "dialogue": [
+        "A: Your skateboard looks really fun.",
+        "B: It is! Why don't you try it out?"
+      ]
+    }
+  ],
+  "practice": {
+    "title": "Choose the best answer",
+    "sourcePdfPage": 4,
+    "questions": [
+      {
+        "id": "p1",
+        "prompt": "He often ____ his wife as his best friend.",
+        "options": [
+          "refers to",
+          "tries out",
+          "thinks highly of"
+        ],
+        "answer": "refers to",
+        "expressionId": "refer-to-a-as-b",
+        "explanation": "“Refers to A as B” means calls A by the name B. He calls his wife his best friend."
+      },
+      {
+        "id": "p2",
+        "prompt": "I want to ____ that new language program for learning English while sleeping.",
+        "options": [
+          "try out",
+          "take my time",
+          "get better"
+        ],
+        "answer": "try out",
+        "expressionId": "try-out",
+        "explanation": "“Try out” means test something to see how it works. The speaker wants to test the language program."
+      },
+      {
+        "id": "p3",
+        "prompt": "It has been six years, ____, since I visited my hometown.",
+        "options": [
+          "more or less",
+          "at hand",
+          "a steal"
+        ],
+        "answer": "more or less",
+        "expressionId": "more-or-less",
+        "explanation": "“More or less” means approximately. The time since the visit is about six years."
+      },
+      {
+        "id": "p4",
+        "prompt": "Keep plenty of coffee ____ because this is going to be a long meeting.",
+        "options": [
+          "more or less",
+          "on hand",
+          "on your own"
+        ],
+        "answer": "on hand",
+        "expressionId": "on-hand",
+        "explanation": "“On hand” means available and ready for use. Coffee should be ready during the meeting."
+      },
+      {
+        "id": "p5",
+        "prompt": "She ____ her supervisor, so she does not mind when he offers her suggestions.",
+        "options": [
+          "takes her time",
+          "thinks highly of",
+          "is on her own"
+        ],
+        "answer": "thinks highly of",
+        "expressionId": "think-highly-of",
+        "explanation": "“Thinks highly of” means has a good opinion of. She respects her supervisor and welcomes his suggestions."
+      },
+      {
+        "id": "p6",
+        "prompt": "Wherever the president goes, his bodyguards are close ____.",
+        "options": [
+          "on their own",
+          "a steal",
+          "at hand"
+        ],
+        "answer": "at hand",
+        "expressionId": "at-hand",
+        "explanation": "“At hand” means nearby. The bodyguards stay close to the president."
+      },
+      {
+        "id": "p7",
+        "prompt": "There is no rush, so you can ____ getting ready.",
+        "options": [
+          "get better",
+          "refer to",
+          "take your time"
+        ],
+        "answer": "take your time",
+        "expressionId": "take-ones-time",
+        "explanation": "“Take your time” means proceed slowly and without rushing."
+      },
+      {
+        "id": "p8",
+        "prompt": "This computer is ____ at this price. You should buy it before the sale finishes.",
+        "options": [
+          "on hand",
+          "a steal",
+          "refer to"
+        ],
+        "answer": "a steal",
+        "expressionId": "a-steal",
+        "explanation": "“A steal” means a very good bargain. The sale price is especially low."
+      },
+      {
+        "id": "p9",
+        "prompt": "We had to study most of the material ____ because the professor only wanted to talk about his theory in class.",
+        "options": [
+          "try out",
+          "more or less",
+          "on our own"
+        ],
+        "answer": "on our own",
+        "expressionId": "on-ones-own",
+        "explanation": "“On our own” means without help. The students had to learn the material independently."
+      },
+      {
+        "id": "p10",
+        "prompt": "You will never ____ if you don't rest and do as the doctor says.",
+        "options": [
+          "think highly of",
+          "get better",
+          "refer to"
+        ],
+        "answer": "get better",
+        "expressionId": "get-better",
+        "explanation": "“Get better” means improve or recover. Rest and following medical advice help recovery."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "In the hospital",
+    "sourcePdfPage": 5,
+    "wordBank": [
+      "take your time",
+      "refer to him as",
+      "on my own",
+      "more or less",
+      "getting better",
+      "thinks highly of"
+    ],
+    "lines": [
+      {
+        "id": "d1",
+        "speaker": "Bob",
+        "text": "How are you feeling, Mark?"
+      },
+      {
+        "id": "d2",
+        "speaker": "Mark",
+        "text": "I think I'm ____. At least I can move my fingers today.",
+        "answer": "getting better",
+        "expressionId": "get-better",
+        "explanation": "Mark is improving physically. Use “getting better” after “I’m.”"
+      },
+      {
+        "id": "d3",
+        "speaker": "Bob",
+        "text": "Great! Everyone ____ the doctor who is treating you. They say he is the best.",
+        "answer": "thinks highly of",
+        "expressionId": "think-highly-of",
+        "explanation": "Everyone has a good opinion of the doctor. “Everyone” takes the singular verb “thinks.”"
+      },
+      {
+        "id": "d4",
+        "speaker": "Mark",
+        "text": "Yeah. He is good. I heard the nurse ____ Dr. Miracle.",
+        "answer": "refer to him as",
+        "expressionId": "refer-to-a-as-b",
+        "explanation": "The nurse called the doctor “Dr. Miracle.” After “heard the nurse,” the base verb “refer” fits."
+      },
+      {
+        "id": "d5",
+        "speaker": "Bob",
+        "text": "Well, everyone at work is hoping you can come back soon, but ____. Do you know how long you will be in the hospital?",
+        "answer": "take your time",
+        "expressionId": "take-ones-time",
+        "explanation": "Bob tells Mark not to rush his recovery."
+      },
+      {
+        "id": "d6",
+        "speaker": "Mark",
+        "text": "Actually, I am going home tomorrow. And since my wife has to work, I'll be ____ there all day.",
+        "answer": "on my own",
+        "expressionId": "on-ones-own",
+        "explanation": "Mark will be alone at home without his wife’s help during the day."
+      },
+      {
+        "id": "d7",
+        "speaker": "Bob",
+        "text": "Will you be OK?"
+      },
+      {
+        "id": "d8",
+        "speaker": "Mark",
+        "text": "I think so. I can manage things with my left hand ____.",
+        "answer": "more or less",
+        "expressionId": "more-or-less",
+        "explanation": "“More or less” means approximately or almost. Mark can manage, although perhaps not perfectly."
+      },
+      {
+        "id": "d9",
+        "speaker": "Bob",
+        "text": "If you need anything, just call. I'll be close at hand. I'll come over and give you a hand. Just hand over all your problems to me. I can handle them. I'll be on hand."
+      },
+      {
+        "id": "d10",
+        "speaker": "Mark",
+        "text": "OK! OK! I get it. Very funny! Thanks, Bob!"
+      }
+    ]
+  },
+  "story": {
+    "title": "Idioms in context",
+    "sourcePdfPage": 6,
+    "paragraphs": [
+      "My Brazilian friend has only lived in the United States for six months, but his English is great. Before he came to the US, he studied in a language school, but mostly he learned English on his own from reading English books and watching movies. He had learned basic conversation before he arrived in the US. Then, after he got here, his vocabulary and listening got better very quickly. I would say that he is now more or less fluent in English. However, sometimes he still has trouble with idioms.",
+      "One day, he asked me to help him buy some jewelry for his girlfriend back in Brazil. Her birthday was close at hand and he wanted to get something nice. He showed me a picture of his girlfriend before we went shopping. When I saw the picture I said, “Wow! Your girlfriend is a real spring chicken.”",
+      "My friend asked me, “Why do you refer to my girlfriend as a chicken?” I explained to my friend, “I just mean your girlfriend is very young and beautiful.”",
+      "At the jewelry store, they had several very nice necklaces on hand. I suggested that we take our time and look at several stores, but my friend found a diamond necklace that was a steal. He called the saleswoman over to buy it.",
+      "As the saleswoman was taking out the necklace, my friend decided to try out the new idiom he learned. He showed the saleswoman the picture of his girlfriend and asked, “Don’t you think she is a chicken noodle?” My friend’s English may not be perfect, but I still think highly of it."
+    ],
+    "highlights": [
+      {
+        "text": "on his own",
+        "expressionId": "on-ones-own"
+      },
+      {
+        "text": "got better",
+        "expressionId": "get-better"
+      },
+      {
+        "text": "more or less",
+        "expressionId": "more-or-less"
+      },
+      {
+        "text": "at hand",
+        "expressionId": "at-hand"
+      },
+      {
+        "text": "refer to my girlfriend as",
+        "expressionId": "refer-to-a-as-b"
+      },
+      {
+        "text": "on hand",
+        "expressionId": "on-hand"
+      },
+      {
+        "text": "take our time",
+        "expressionId": "take-ones-time"
+      },
+      {
+        "text": "a steal",
+        "expressionId": "a-steal"
+      },
+      {
+        "text": "try out",
+        "expressionId": "try-out"
+      },
+      {
+        "text": "think highly of",
+        "expressionId": "think-highly-of"
+      }
+    ]
+  }
+}
